@@ -22,6 +22,7 @@ MarkupSafe==3.0.3
 narwhals==2.26.0
 numpy==2.5.3
 openpyxl==3.1.5
+extra-streamlit-components
 packaging==26.3
 streamlit
 pandas
