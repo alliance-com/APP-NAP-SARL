@@ -56,12 +56,4 @@ uvicorn==0.53.0
 watchdog==6.0.0
 websockets==16.1.1
 qrcode[pil]==8.0
-pandas
-openpyxl
-streamlit-authenticator
 docx
-supabase
-python-docx
-qrcode
-pillow
-openpyxl
