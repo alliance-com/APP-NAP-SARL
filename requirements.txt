@@ -47,3 +47,4 @@ urllib3==2.8.0
 uvicorn==0.53.0
 watchdog==6.0.0
 qrcode[pil]==8.0
+supabase
