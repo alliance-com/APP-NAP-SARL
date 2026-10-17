@@ -1,3 +1,0 @@
-# Pointage des comptes
-
-Chargement des données…
